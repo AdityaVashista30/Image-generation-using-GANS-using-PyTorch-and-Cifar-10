@@ -1,1 +1,1 @@
-# image-generation-using-GANS-using-PyTorch-and-Cifar-10
+# Image-Generation-using-GANS-using-PyTorch-and-Cifar-10
